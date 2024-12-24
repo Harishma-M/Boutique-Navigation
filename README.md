@@ -11,7 +11,7 @@ This Boutique-Navigation project is sample project based on the Navigation proce
 
 
 🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/vishnubalajiit)<br>
-📬 How to reach me: [harishmamoffical@gmail.com](mailto:vishnubalajiit@gmail.com)<br>
+📬 How to reach me: [vishnubalajiit@gmail.com](mailto:vishnubalajiit@gmail.com)<br>
 💪 This is where I write, code and solve problems.<br><br>
  As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
@@ -32,22 +32,12 @@ _(click the button!)_
 -------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------
-### 📊 My GitHub Stats:
-![](https://github-profile-trophy.vercel.app/?username=Hirthick6&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Repositories,Stars,Experience,Followers)
-
-![](https://github-profile-trophy.vercel.app/?username=Hirthick6&row=1&column=1&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020&margin-w=4)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hirthick6&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirthick6&hide=jupyter%20notebook&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<br>
-
 
 - 👨‍💻All of my projects are available at [https://github.com/Hirthick6](https://github.com/Vishnubalaji-C)
 
 -------------------------------------------------------------------------------------------------------
 **Check out 
-✨[`@VishnuBalaji`](https://github.com/Vishnubalaji-C)✨**
+✨[`@VishnuBalajiit`](https://github.com/Vishnubalaji-C)✨**
 
 
 Projects: 
