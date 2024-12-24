@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body
+{
+    background: linear-gradient(rgb(0, 255, 221),pink,rgb(189, 25, 52));
+}
+h1
+{
+    width: 100%;
+    color: rgb(2, 21, 54);
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+button
+{
+    width: 250px;
+    height: 30px;
+    container: column;
+    display: block;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    transform: translate(-50%,-50%)
+    border: none;
+    outline: none;
+    background-color: black;
+    border-radius: 20px;
+    color: oldlace;
+    font-size: 25px;
+
+}
+button:hover
+{
+    width:300px;
+    height: 50px;
+    transition: 0.5s;
+}

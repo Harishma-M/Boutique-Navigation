@@ -1,0 +1,20 @@
+h1
+{
+   width: 90%;
+   
+   color: teal;
+   text-transform: uppercase ;
+   font-style: italic;
+}
+
+body
+{
+   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background: url(lavender\ home.jfif);
+   background-repeat: None;
+   background-size: cover;
+   
+}

@@ -1,0 +1,26 @@
+body
+{
+    background-color: lightgreen;
+    background-image: url(about1\ image.jfif);
+    background-repeat: None;
+  
+}
+
+h1
+{
+    width: 100%;
+    color: indigo;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    font-style: italic;
+
+}
+
+h2
+{
+    width: 50%;
+    color: black;
+    font-size:30px ;
+    
+}

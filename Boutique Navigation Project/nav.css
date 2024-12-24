@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body 
+{
+    width=100%;
+    height=100vh;
+    background-color: bisque;
+    background-image: url(about\ image.jfif);
+
+}
+
+nav
+{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(40, 27, 4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+  
+}
+
+nav a
+{
+    padding: 49px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.5s;
+    
+}
+nav a:hover
+{
+    color: rgb(180, 249, 5) ;
+    letter-spacing: 4px;
+}
+h1
+{
+    font-size: 70px;
+    padding: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(29, 0, 10);
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

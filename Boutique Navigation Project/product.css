@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body
+{
+    background-color: lightcoral;
+    background: url(product\ bacground);
+    background-repeat: none;
+    
+}                         
+h1
+{
+    width: 100%;
+    color: rgb(31, 1, 19);
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+button
+{
+    width: 400px;
+    height: 50px;
+    container: column;
+    display: block;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    transform: translate(-50%,-50%)
+    border: none;
+    outline: none;
+    background-color: black;
+    border-radius: 20px;
+    color: oldlace;
+    font-size: 50px;
+
+}
+button:hover
+{
+    width: 500px;
+    height: 70px;
+    transition: 0.5s;
+}
