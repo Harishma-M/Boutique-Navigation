@@ -1,5 +1,5 @@
 # Boutique-Navigation
-This Boutique-Navigation project is sample project based on the Navigation process like creation of link within another link,hovering the words by changing the colors. As this project contains basic informations Home  , About , Product , Settings &amp; Ratings.
+Boutique Navigation App is a fashion-focused shopping application designed to simplify product discovery through intuitive navigation and a clean interface. The project includes category-based browsing, responsive layouts, modern UI components, and a seamless user experience across devices. It demonstrates front-end development skills and provides a scalable foundation for an online boutique platform.
 # Welcome to [Harishma's](https://github.com/Harishma-M/) profile! <a href="https://github.com/Harishma-M/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
